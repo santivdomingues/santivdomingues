@@ -9,7 +9,7 @@
   
 - I’m currently getting a **Master's Degree in Software Engineering**
 
-- How to reach me **santiagovic6@gmail.com**
+- How to reach me **svff.domingues@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
