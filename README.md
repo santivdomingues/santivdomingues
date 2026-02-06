@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> 
   <img src="https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white" />
   
@@ -55,9 +54,14 @@
 
 ##
 
+<!--
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santivdomingues&show_icons=true&theme=dracula&locale=en&layout=compact" alt="santi1904" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santivdomingues&show_icons=true&theme=dracula&locale=en" alt="santi1904" /></p>
+
+-->
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Santi1904/Santi1904/output/github-contribution-grid-snake-dark.svg">
