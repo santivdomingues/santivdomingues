@@ -7,7 +7,7 @@
 
 - **Software Engineer from Portugal**
   
-- I’m currently getting a **Master's Degree in Software Engineering**
+- **Master's Degree in Software Engineering**
 
 - How to reach me **svff.domingues@gmail.com**
 
